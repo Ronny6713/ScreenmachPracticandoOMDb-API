@@ -1,0 +1,1 @@
+nombre= Upgrade, fechaDeLanzamiento= 2018, duracion= 100
